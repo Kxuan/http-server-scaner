@@ -1,7 +1,7 @@
 HTTP Server Scanner
 =============================
-It will scan the whole ipv4 address space, find out the http server,
-and display there server name on screen
+It will scan the whole ipv4 address space, find out http servers,
+and display there http server application name(and version) on screen
 
 Purpose
 ----
